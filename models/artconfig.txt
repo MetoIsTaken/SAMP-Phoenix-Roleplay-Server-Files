@@ -1,0 +1,4 @@
+AddCharModel(305, 20013, "siyahpitbull.dff", "siyahpitbull.txd");
+AddCharModel(305, 20014, "brownpittbull.dff", "brownpittbull.txd");
+AddCharModel(305, 20015, "dalmation.dff", "dalmation.txd");
+AddCharModel(305, 20016, "whitedogpitbull.dff", "whitedogpitbull.txd");
